@@ -9,6 +9,7 @@ No signs of IR excess.
 https://twitter.com/AsassnCitizen/status/1720184610703708655
 https://twitter.com/AsassnCitizen/status/1720526975222071627
 
+Shappee et al. (2014):
 "Deep eclipse of a previously constant star, matches to 
 
 PS1 g=14.5, 
@@ -47,7 +48,7 @@ TIC 423130447
 
 Estimates: Teff: 7843.0	+-122.0, Radii Sun: 5.813, Dist PC: 4085.3601	+-486.1000	
 
-Sectors: 34, 61 (10 is listed but outside fram)
+Sectors: 34, 61 (10 is listed but outside frame)
 
 Also in: The APASS (AAVSO)
 
