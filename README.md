@@ -1,6 +1,8 @@
 # ASASSN-23ht
 
-What makes hot giant dimm 3 magnitudes??? 
+What makes possibly 7000k 5x sun radii star dimm 3 magnitudes??? Only dust?
+
+Check the stellar parameters especially radius and type. Gaia low res spektrum + SED?
 
 I conclude WISE & NEOWISE lightcurves flat to end of 2021 from public data.
 
