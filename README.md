@@ -1,6 +1,6 @@
 # ASASSN-23ht
 
-What makes possibly 7000k 5x sun radii star dimm 3 magnitudes??? Only dust?
+What makes possibly 7000k star dimm 3 magnitudes??? Only dust?
 
 Check the stellar parameters especially radius and type. Gaia low res spektrum + SED?
 
@@ -27,13 +27,27 @@ g>16.7 on 2023-11-03.42"
 
 GAIA:
 
-DR2: Teff: 6599	+-702 
+Source 5716476783788937216
 
+PLX 0.2242 +- 0.0179
+
+Tang Velocity: ~76/Km /s
+
+G = 14.065 / 0.003
+
+BP-RP = 0.969
+
+G-RP = 0.579
+
+Absolute magnitude: 0.82
+
+
+DR2: Teff: 6599	+-702 
 DR3: Teff: 9682
 
-Dist: 3060.4429
+Dist: 3060.4429 pc
 
-Rad_sun: 5.0123
+Rad_sun: 5.0123 ???
 
 RUWE: 1.065 (nominal, but low pm)
 
@@ -48,11 +62,19 @@ TESS:
 
 TIC 423130447
 
-Estimates: Teff: 7843.0	+-122.0, Radii Sun: 5.813, Dist PC: 4085.3601	+-486.1000	
+Estimates: Teff: 7843.0	+-122.0, Radii Sun: 5.813???, Dist PC: 4085.3601	+-486.1000	
 
 Sectors: 34, 61 (10 is listed but outside frame)
 
-Also in: The APASS (AAVSO)
+Nearby is contaminating (~1.64') G Mag 10 star Gaia 5716476611990231424 with wonky lightcurve. It is faint in TESS standarts 
+
+
+
+Clean catalogues of blue horizontal-branch stars using Gaia EDR3 R. Culpan, I. Pelisoli, S. Geier
+
+https://arxiv.org/pdf/2108.05172.pdf
+
+Also in: The APASS (AAVSO) 
 
 
 
