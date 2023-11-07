@@ -1,6 +1,14 @@
 # ASASSN-23ht
 
-What makes possibly 7000k star dimm 3 magnitudes??? Only dust?
+https://www.astronomerstelegram.org/?read=16328
+
+
+
+Latest lc:https://asas-sn.osu.edu/sky-patrol/coordinate/8cffe75a-747c-4b6e-b28b-4fcd99c63deb
+
+Full lc: https://asas-sn.osu.edu/sky-patrol/coordinate/d1550cd5-cc18-4646-bea1-0a5074515b38
+
+dust? upper scattering?
 
 Check the stellar parameters especially radius and type. Gaia low res spektrum + SED?
 
