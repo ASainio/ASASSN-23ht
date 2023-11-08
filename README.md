@@ -2,13 +2,13 @@
 
 https://www.astronomerstelegram.org/?read=16328
 
+Direct full asas-sn data (csv): https://asas-sn.osu.edu/sky-patrol/coordinate/d1550cd5-cc18-4646-bea1-0a5074515b38/export.csv
 
+Direct latest data asas-sn (csv): https://asas-sn.osu.edu/sky-patrol/coordinate/8cffe75a-747c-4b6e-b28b-4fcd99c63deb/export.csv
 
 Latest lc:https://asas-sn.osu.edu/sky-patrol/coordinate/8cffe75a-747c-4b6e-b28b-4fcd99c63deb
 
 Full lc: https://asas-sn.osu.edu/sky-patrol/coordinate/d1550cd5-cc18-4646-bea1-0a5074515b38
-
-dust? upper scattering?
 
 Check the stellar parameters especially radius and type. Gaia low res spektrum + SED?
 
@@ -35,7 +35,7 @@ g>16.7 on 2023-11-03.42"
 
 GAIA:
 
-Source 5716476783788937216
+Source 5716476783788937216 
 
 PLX 0.2242 +- 0.0179
 
@@ -68,13 +68,13 @@ Check low res spectrum and Gaia lightcurve.
 
 TESS:
 
-TIC 423130447
+TIC 423130447 (faint in TESS standarts)
 
 Estimates: Teff: 7843.0	+-122.0, Radii Sun: 5.813???, Dist PC: 4085.3601	+-486.1000	
 
 Sectors: 34, 61 (10 is listed but outside frame)
 
-Nearby is contaminating (~1.64') G Mag 10 star Gaia 5716476611990231424 with wonky lightcurve. It is faint in TESS standarts 
+Nearby is contaminating (~1.64') G Mag 10 star Gaia 5716476611990231424 with wonky lightcurve. 
 
 
 
