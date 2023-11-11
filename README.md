@@ -76,7 +76,10 @@ Sectors: 34, 61 (10 is listed but outside frame)
 
 Nearby is contaminating (~1.64') G Mag 10 star Gaia 5716476611990231424 with wonky lightcurve. 
 
-
+Read:
+The White Dwarf Binary Pathways Survey -- IX. Three long period white dwarf plus subgiant binaries
+S. G. Parsons et al.
+https://arxiv.org/abs/2211.08440
 
 Clean catalogues of blue horizontal-branch stars using Gaia EDR3 R. Culpan, I. Pelisoli, S. Geier
 
